@@ -1,0 +1,50 @@
+2017-10-17 10:44:00,669 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fhr:httpclientdemo:0.0.1-SNAPSHOT @ E:\Programing\java\httpclientdemo\workspace\httpclientdemo\pom.xml.
+2017-10-17 10:44:01,487 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /httpclientdemo/src/main/java
+2017-10-17 10:44:01,489 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /httpclientdemo/src/test/java
+2017-10-17 10:44:01,762 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2017-10-17 10:44:03,454 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:44:03,455 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\main\resources
+2017-10-17 10:44:03,457 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:44:03,457 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\test\resources
+2017-10-17 10:44:16,270 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:44:16,271 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\main\resources
+2017-10-17 10:44:16,273 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:44:16,273 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\test\resources
+2017-10-17 10:44:54,431 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fhr:restdemo:0.0.1-SNAPSHOT @ E:\Programing\java\httpclientdemo\workspace\restdemo\pom.xml.
+2017-10-17 10:44:56,574 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /restdemo/src/main/java
+2017-10-17 10:44:56,577 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /restdemo/src/main/resources
+2017-10-17 10:44:56,578 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /restdemo/src/test/java
+2017-10-17 10:44:56,800 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2017-10-17 10:44:59,621 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:44:59,625 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-17 10:44:59,669 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:44:59,670 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\restdemo\src\test\resources
+2017-10-17 10:45:20,917 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:45:20,918 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\main\resources
+2017-10-17 10:45:20,919 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:45:20,920 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\test\resources
+2017-10-17 10:45:28,138 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:45:28,138 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\main\resources
+2017-10-17 10:45:28,139 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:45:28,139 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\test\resources
+2017-10-17 10:45:51,618 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:45:51,618 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\main\resources
+2017-10-17 10:45:51,619 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:45:51,620 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\test\resources
+2017-10-17 10:45:52,680 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:45:52,680 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\main\resources
+2017-10-17 10:45:52,681 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:45:52,681 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\test\resources
+2017-10-17 10:48:21,587 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fhr:httpclientdemo:0.0.1-SNAPSHOT @ E:\Programing\java\httpclientdemo\workspace\httpclientdemo\pom.xml.
+2017-10-17 10:48:21,771 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:48:21,772 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\main\resources
+2017-10-17 10:48:21,775 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:48:21,775 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\test\resources
+2017-10-17 10:49:44,909 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:49:44,910 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\main\resources
+2017-10-17 10:49:44,913 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:49:44,913 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\test\resources
+2017-10-17 10:50:02,347 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:50:02,348 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\main\resources
+2017-10-17 10:50:02,349 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-17 10:50:02,349 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Programing\java\httpclientdemo\workspace\httpclientdemo\src\test\resources
